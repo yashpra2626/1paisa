@@ -1,1 +1,1 @@
-<?php echo "its 1paisa from github actions pipelining"; ?>
+<?php echo "its 1paisa "; ?>

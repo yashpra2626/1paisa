@@ -108,7 +108,7 @@ function initialize() {
         position: nottingham,
         map: map,
         icon: pinIcon,
-        title: 'bingo'
+        title: '1Paisa'
     });
 }
 
